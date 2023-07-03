@@ -1,7 +1,7 @@
-import React, { Component } from "react";
+import React from "react";
 import Slider from "react-slick";
 import { testi } from "../Text";
-import { Fade, Slide } from "react-awesome-reveal";
+import { Slide } from "react-awesome-reveal";
 
 function Testimonials() {
 
